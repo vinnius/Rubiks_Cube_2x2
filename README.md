@@ -2,5 +2,5 @@
 
 
 <p align="center">
-    <img src="cubo.jpeg" width="400">
+    <img src="cubo.jpeg" width="200">
 </p>
