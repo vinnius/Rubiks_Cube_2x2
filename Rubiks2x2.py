@@ -71,10 +71,7 @@ def girar_face_antihorario(face):
         [face[0][0], face[1][0]]
 
     ]
-# Função que realiza a permutação de linhas entre 4 matrizes
-# Exemplo de uso: permutar_linhas(A, B, C, D, linha, sentido_de_rotação):
 
-# def permutar_linhas(A, B, C, D, linha, sentido):
 
     # Guarda temporariamente a linha de A
     temp = A[linha][:]
