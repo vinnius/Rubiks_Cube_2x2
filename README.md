@@ -16,24 +16,11 @@ O programa também possui uma interface gráfica desenvolvida com Tkinter, que e
 
 ##
 
-Exemplos de uso
+Exemplo de uso
 
 Movimento da face superior no sentido horário:
 
 E = movimento(E, "UP", 1)
-
-Movimento da face direita no sentido anti-horário:
-
-E = movimento(E, "RIGHT", 0)
-
-Sequência de movimentos:
-
-E = movimento(E, "UP", 1)
-E = movimento(E, "RIGHT", 1)
-E = movimento(E, "FRONT", 0)
-E = movimento(E, "LEFT", 1)
-
-Convenção utilizada:
 
 1 → rotação no sentido horário.
 0 → rotação no sentido anti-horário.
