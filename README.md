@@ -16,7 +16,7 @@ O programa também possui uma interface gráfica desenvolvida com Tkinter, que e
 
 ##
 
-Exemplo de uso
+Exemplo:
 
 Movimento da face superior no sentido horário:
 
