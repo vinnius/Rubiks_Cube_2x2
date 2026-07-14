@@ -6,11 +6,18 @@
 </p>
 
 
+## Descrição
+
+Este projeto implementa um simulador de um Cubo de Rubik 2×2 em Python. O estado do cubo é representado por seis matrizes 2×2, uma para cada face.
+
+Cada movimento (`UP`, `DOWN`, `LEFT`, `RIGHT`, `FRONT` e `BACK`) é realizado girando a face correspondente e atualizando as oito posições das faces adjacentes por meio de um deslocamento cíclico de um vetor.
+
+O programa também possui uma interface gráfica desenvolvida com Tkinter, que exibe uma representação aberta e colorida do cubo, facilitando a visualização e a validação dos movimentos.
 
 
 
 
 
 <p align="center">
-    <img src="output.png" width="200">
+    <img src="output.png" width="300">
 </p>
