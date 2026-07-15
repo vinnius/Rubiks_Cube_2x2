@@ -96,8 +96,7 @@ def girar_face_antihorario(face):
 
     return A, B, C, D
 
-# Função Movimento
-# Exemplo de uso: E = movimento(E, "UP", 1)
+
 
 def girar(E, face, sentido):
 
@@ -265,6 +264,9 @@ def SLIDE(V, n):
     n = n % N
 
     return V[-n:] + V[:-n]
+
+# Função Movimento
+# Exemplo de uso: E = movimento(E, "UP", 1)
 
 def movimento(E, movimento, sentido):
 
